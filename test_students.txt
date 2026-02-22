@@ -1,0 +1,15 @@
+STUDENT GRADE REPORT
+========================================
+
+Name: Priya
+Marks: [88.0, 55.0, 49.0]
+Average: 64.0
+Grade: D
+Comment: Needs Improvement. Please study more.
+------------------------------
+Name: Mausami
+Marks: [77.0, 66.0, 99.0]
+Average: 80.7
+Grade: B
+Comment: Very Good! You're doing well.
+------------------------------
